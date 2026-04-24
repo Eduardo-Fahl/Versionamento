@@ -1,2 +1,2 @@
 # Versionamento
-Dados relacionados a matéria de versio
+Dados relacionados a matéria de versionamento de código
